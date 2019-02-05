@@ -1,0 +1,12 @@
+body{
+  font-family: sans-serif;
+  font-size: 16px;
+}
+.converterBox{
+  padding: 24px;
+  background-color: rgb(10, 198, 204);
+  text-align: center;
+}
+p, h1{
+  text-align: center;
+}
