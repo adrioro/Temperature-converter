@@ -4,12 +4,24 @@ body{
 }
 .converterBox{
   padding: 36px;
+  padding-top: 12px;
   background-color: rgb(10, 198, 204);
   text-align: center;
 }
-p, h1{
+h1{
   text-align: center;
 }
 strong{
-  padding:9px;
+  padding:12px;
+}
+.frh, .cls{
+  display: inline-block;
+}
+.label{
+  text-align: left;
+  text-transform: uppercase;
+  font-weight:500;
+}
+p{
+  text-align: center;
 }
