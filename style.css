@@ -3,10 +3,13 @@ body{
   font-size: 16px;
 }
 .converterBox{
-  padding: 24px;
+  padding: 36px;
   background-color: rgb(10, 198, 204);
   text-align: center;
 }
 p, h1{
   text-align: center;
+}
+strong{
+  padding:9px;
 }

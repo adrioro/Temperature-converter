@@ -13,13 +13,14 @@
       <h1>Temperature Converter</h1>
 
       <div>
-         <p>Use this temperature converter to convert instantly between celsius
-            and fahrenheit temperature units.</p>
+         <p>Use this temperature converter to convert instantly between fahrenheit
+            and celsius temperature units.</p>
       </div>
 
       <div class="converterBox">
-         <input id='Fahrenheit' type="number">
-         <input id='Celsius' type="number">
+         <input id='Fahrenheit' type="number" oninput="fFunction()">
+         <strong>=</strong>
+         <input id='Celsius' type="number" oninput="cFunction()">
       </div>
 
 
