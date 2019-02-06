@@ -17,4 +17,8 @@ Write Up:
 
 ![alt text](https://github.com/adrioro/Temperature-converter/blob/master/images/IMG_4884%20copy.jpg)
 
+Screenshot:
+
+![alt text](https://github.com/adrioro/Temperature-converter/blob/master/images/ScreenShot.png)
+
 
