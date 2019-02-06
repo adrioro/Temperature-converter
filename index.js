@@ -9,12 +9,6 @@ one of the input fields should trigger the change in the other.*/
 //Fahrenheit to Celsius ℃=(℉-32)/1.8
 //Celsius to Fahrenheit ℉=(℃*1.8)+32
 
-
-//This is js
-//var Fht = document.getElementById("Fahrenheit").value;
-
-//var CelsiusResult = (Fht - 32) / 1.8;
-
 function fFunction() {
     let Fht = document.getElementById("Fahrenheit").value;
     let newCls = (Fht - 32) / 1.8;
